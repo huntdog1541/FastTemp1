@@ -1,0 +1,5 @@
+{
+  "arch": "X86",
+  "mode": "X64",
+  "code": "mov eax, 1"
+}
